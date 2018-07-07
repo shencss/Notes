@@ -1,0 +1,28 @@
+#4CAF50
+#4CAF50 /* Green */
+#008CBA /* Blue */
+#f44336 /* Red */ 
+#e7e7e7 /* Gray */ 
+#555555 /* Black */
+#f4511e /* ³ÈÉ« */
+#edf0f1 /* µ­»Ò */
+#a18cd1 /* µ­×Ï */
+#fbc2eb /* µ­·Û */
+#ff9966 /* µ­³È */
+#6699cc /* µ­À¶ */
+#dc3228 /* µ­ºì */
+#a0cf67 /* µ­ÂÌ */
+#22C7A9 /* µ­Çà */
+#F56262 /* Ê¯Áñ */
+#F45B69 /* Éî·Û */
+/* ¿Æ¼¼ºÚ */
+#2a2e3e 
+#5d616d
+#353948
+/* µ­ºÚ */
+#324B4B
+/* »ÆÉ« */
+#FCCF4D
+
+/* ×ÖÌå */
+font-family: "PingFang SC","Helvetica Neue","Hiragino Sans GB","WenQuanYi Micro Hei","Microsoft Yahei",sans-serif;
